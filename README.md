@@ -12,7 +12,7 @@ perubahan itu, lalu menyalakan buzzer aktif 5 V lewat transistor 2N2222
 dan LED hijau sebagai indikator visual.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/l6wSdtBQV78
 
 ## Komponen
 
